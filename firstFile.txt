@@ -1,0 +1,4 @@
+git config --global user.name lol
+config -- global user.email....
+
+hola otra vez
